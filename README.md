@@ -4,5 +4,5 @@ Currently the best way to solve the Duffing Equation given by: 𝑥"=−𝛼𝑥
 
 The circuit drawing was as follows: 
 
-![Circuit Drawing](CircuitDrawing.jpg)
+![Circuit Drawing](https://github.com/ameyarsalvi/Duffing_Oscillator/blob/master/CircuitDiagram.jpg)
 
