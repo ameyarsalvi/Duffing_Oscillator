@@ -6,3 +6,16 @@ The circuit drawing was as follows:
 
 ![Circuit Drawing](https://github.com/ameyarsalvi/Duffing_Oscillator/blob/master/CircuitDiagram.jpg)
 
+Our Circuit: 
+
+![Circuit](https://github.com/ameyarsalvi/Duffing_Oscillator/blob/master/Circuit.jpg)
+
+Matlab Simulations: 
+
+![Matlab Simulations](https://github.com/ameyarsalvi/Duffing_Oscillator/blob/master/MatlabSimulations.JPG)
+
+Osciloscope Reults: 
+
+![Period One](https://github.com/ameyarsalvi/Duffing_Oscillator/blob/master/PeriodOne.png)
+
+![Chaos](https://github.com/ameyarsalvi/Duffing_Oscillator/blob/master/Chaos.jpg)
